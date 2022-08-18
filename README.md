@@ -1,4 +1,3 @@
-# mikeashibuogwu
 
 # Hello there; welcome 👋🏾
 
