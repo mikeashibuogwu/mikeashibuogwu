@@ -16,5 +16,5 @@ I'm a Software Engineer and Content Creator. I'm passionate about sharing knowle
 
 ---
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=mikeashibuogwu&show_icons=true&include_all_commits=true&hide_border=true" alt="Mike's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bolajiayodeji&langs_count=8&layout=compact&hide_border=true" alt="Mike's GitHub stats" /> |
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=mikeashibuogwu&show_icons=true&include_all_commits=true&hide_border=true" alt="Mike's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mikeashibuogwu&langs_count=8&layout=compact&hide_border=true" alt="Mike's GitHub stats" /> |
 | ------------- | ------------- |
